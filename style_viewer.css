@@ -1,0 +1,9 @@
+.viewer_container{
+    background-color: blue;
+    height: 100%;
+}
+
+.viewer_footer{
+    background-color: aqua;
+    padding: 10px;
+}
